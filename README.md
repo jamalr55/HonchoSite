@@ -2,4 +2,4 @@
 Jamal's Porfolio Website 7
 
 This is a Responsive website I create using HTML, CSS, and Javascript. 
-It is deployed with Netlify: https://honcho-services.netlify.com/
+It is deployed with Netlify: https://honcho-services.netlify.app/
